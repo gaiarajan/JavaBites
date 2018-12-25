@@ -7,3 +7,11 @@ Create a program which finds the closest number in a set of numbers to an inputt
 
 PROBLEM 2
 Create a program which allows a user to add and delete songs. Each song has an artist, name, and date.
+
+
+
+
+
+
+PROBLEM 3
+Implement bubblesort.
